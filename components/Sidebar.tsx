@@ -34,7 +34,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab, onLogout }) 
           {isStudent ? 'HS' : 'PH'}
         </div>
         <span className="hidden md:block font-bold text-lg tracking-tight">
-          {isStudent ? 'HỌC SINH' : 'GVCN PHÚC'}
+          {isStudent ? 'HỌC SINH' : 'GVCN VANHA'}
         </span>
       </div>
 
