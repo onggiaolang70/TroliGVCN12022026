@@ -94,7 +94,7 @@ const SettingsView: React.FC = () => {
               </div>
               <div className="flex justify-between">
                 <span>Tác giả:</span>
-                <span className="font-bold text-slate-800">GVCN Nguyễn Hữu Phúc</span>
+                <span className="font-bold text-slate-800">GVCN Nguyễn Văn Hà</span>
               </div>
               <div className="flex justify-between">
                 <span>Cập nhật:</span>
