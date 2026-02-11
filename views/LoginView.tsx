@@ -35,7 +35,7 @@ const LoginView: React.FC<LoginViewProps> = ({ onLogin }) => {
             🎓
           </div>
           <h1 className="text-2xl font-bold text-slate-800">Quản lý Lớp học</h1>
-          <p className="text-slate-500 mt-2">GVCN Nguyễn Hữu Phúc</p>
+          <p className="text-slate-500 mt-2">GVCN Nguyễn VĂN HÀ</p>
         </div>
 
         <div className="bg-blue-50 border border-blue-100 rounded-xl p-4 mb-6 text-sm text-blue-800">
@@ -94,7 +94,7 @@ const LoginView: React.FC<LoginViewProps> = ({ onLogin }) => {
 
         <div className="mt-6 pt-6 border-t border-slate-100 text-center text-xs text-slate-400">
           <p>Powered by Supabase Database</p>
-          <p className="mt-1">© 2024 GVCN Nguyễn Hữu Phúc</p>
+          <p className="mt-1">© 2024 GVCN Nguyễn Văn Hà</p>
         </div>
       </div>
     </div>
